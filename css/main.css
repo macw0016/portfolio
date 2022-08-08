@@ -50,8 +50,8 @@ li a:hover {
     background-color: #F2E5D7;
     font-family: 'Montserrat', sans-serif;
     position:absolute;
-    top:320px;
-    left:200px;
+    top:330px;
+    left:190px;
     width:230px;
     border: 1px solid #7A5052 ;
     padding: 10px;
@@ -89,8 +89,128 @@ li a:hover {
 
 .prototypes img {
     margin-top: 30px;
-    width: 90%;
+    width: 89.5%;
     margin-left: 25px;
     height: 250px;
 }
 
+.box1 {
+    background-color: #F2E5D7;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #7A5052;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 10px;
+}
+
+.box1 h3 {
+    color: #81523F;
+    font-size: 110;
+    font-weight:430;
+    text-align: center;
+}
+
+.box1 p {
+    padding: 10px;
+    font-size: 12px;
+    color: #7A5052;
+}
+
+.box1 button {
+    background-color: #81523F;
+    margin-left: 150px;
+    /* font-family: 'Montserrat', sans-serif; */
+    color: white;
+    /* font-weight: lighter; */
+    border: none;
+    padding: 5px 8px;
+}
+
+.websites img {
+    margin-top: 30px;
+    width: 89.5%;
+    margin-left: 25px;
+    height: 310px;
+}
+
+.box2 {
+    background-color: #F2E5D7;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #7A5052;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 10px;
+}
+
+.box2 h3 {
+    color: #81523F;
+    font-size: 110;
+    font-weight:430;
+    text-align: center;
+}
+
+.box2 p {
+    padding: 10px;
+    font-size: 12px;
+    color: #7A5052;
+}
+
+.box2 button {
+    background-color: #81523F;
+    margin-left: 150px;
+    /* font-family: 'Montserrat', sans-serif; */
+    color: white;
+    /* font-weight: lighter; */
+    border: none;
+    padding: 5px 8px;
+}
+
+.photography img {
+    margin-top: 30px;
+    width: 89.5%;
+    margin-left: 25px;
+    height: 310px;
+}
+
+.box3 {
+    background-color: #F2E5D7;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #7A5052;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 10px;
+}
+
+.box3 h3 {
+    color: #81523F;
+    font-size: 110;
+    font-weight:430;
+    text-align: center;
+}
+
+.box3 p {
+    padding: 10px;
+    font-size: 12px;
+    color: #7A5052;
+}
+
+.box3 button {
+    background-color: #81523F;
+    margin-left: 150px;
+    /* font-family: 'Montserrat', sans-serif; */
+    color: white;
+    /* font-weight: lighter; */
+    border: none;
+    padding: 5px 8px;
+}
+
+.footerlogo img {
+    width:20%;
+    margin-left: 200px;
+}
+
+.copyright p {
+    text-align: center;
+    margin-top: 10px;
+    color: #81523F;
+}
