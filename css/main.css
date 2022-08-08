@@ -39,6 +39,7 @@ li a:hover {
 }
 
 .about img {
+    margin-top: 20px;
     position: relative;
     width: 48%;
     padding-top: 20px ;
@@ -49,7 +50,7 @@ li a:hover {
     background-color: #F2E5D7;
     font-family: 'Montserrat', sans-serif;
     position:absolute;
-    top:395px;
+    top:415px;
     left:230px;
     width:230px;
     border: 1px solid #7A5052 ;
@@ -83,9 +84,11 @@ li a:hover {
     padding: 50px;
     font-size: smaller;
     text-align: center;
+    margin-top: 40px;
 }
 
 .prototypes img {
+    margin-top: 30px;
     width: 90%;
     margin-left: 25px;
     height: 250px;
