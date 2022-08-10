@@ -9,7 +9,7 @@ body {
 }
 
 nav ul {
-    margin-top: -50px ;
+    margin-top: -40px ;
 }
 
 nav li {
@@ -24,7 +24,7 @@ nav ul {
 li a {
     color:#3F2A2B;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 12.5px;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,17 +41,17 @@ li a:hover {
 .about img {
     margin-top: 20px;
     position: relative;
-    width: 48%;
+    width: 55%;
     padding-top: 20px ;
-    margin-left: 35px;
+    margin-left: 20px;
 }
 
 .box {
     background-color: #F2E5D7;
     font-family: 'Montserrat', sans-serif;
     position:absolute;
-    top:338px;
-    left:190px;
+    top:350px;
+    left:170px;
     width:180px;
     height:142px; 
     border: 1px solid #7A5052 ;
@@ -84,17 +84,17 @@ li a:hover {
     color: white;
     background-color: #81523F;
     font-family: 'Montserrat', sans-serif;
-    padding: 50px;
-    font-size: smaller;
+    padding: 40px;
+    font-size:x-small;
     text-align: center;
     margin-top: 40px;
 }
 
 .prototypes img {
     margin-top: 30px;
-    width: 89.5%;
+    width: 87%;
     margin-left: 25px;
-    height: 250px;
+    height: 180px;
 }
 
 .box1 {
@@ -108,20 +108,21 @@ li a:hover {
 
 .box1 h3 {
     color: #81523F;
-    font-size: 110;
+    font-size: 20px;
     font-weight:430;
     text-align: center;
 }
 
 .box1 p {
     padding: 10px;
-    font-size: 12px;
+    font-size: 10px;
     color: #7A5052;
 }
 
 .box1 button {
     background-color: #81523F;
-    margin-left: 150px;
+    margin-left: 110px;
+    font-size: small;
     /* font-family: 'Montserrat', sans-serif; */
     color: white;
     /* font-weight: lighter; */
@@ -131,9 +132,9 @@ li a:hover {
 
 .websites img {
     margin-top: 30px;
-    width: 89.5%;
+    width: 87%;
     margin-left: 25px;
-    height: 310px;
+    height: 250px;
 }
 
 .box2 {
@@ -147,20 +148,21 @@ li a:hover {
 
 .box2 h3 {
     color: #81523F;
-    font-size: 110;
+    font-size: 20px;
     font-weight:430;
     text-align: center;
 }
 
 .box2 p {
     padding: 10px;
-    font-size: 12px;
+    font-size: 10px;
     color: #7A5052;
 }
 
 .box2 button {
     background-color: #81523F;
-    margin-left: 150px;
+    margin-left: 110px;
+    font-size: small;
     /* font-family: 'Montserrat', sans-serif; */
     color: white;
     /* font-weight: lighter; */
@@ -170,9 +172,9 @@ li a:hover {
 
 .photography img {
     margin-top: 30px;
-    width: 89.5%;
+    width: 87%;
     margin-left: 25px;
-    height: 310px;
+    height: 240px;
 }
 
 .box3 {
@@ -186,20 +188,21 @@ li a:hover {
 
 .box3 h3 {
     color: #81523F;
-    font-size: 110;
+    font-size: 20px;
     font-weight:430;
     text-align: center;
 }
 
 .box3 p {
     padding: 10px;
-    font-size: 12px;
+    font-size: 10px;
     color: #7A5052;
 }
 
 .box3 button {
     background-color: #81523F;
-    margin-left: 150px;
+    margin-left: 110px;
+    font-size: small;
     /* font-family: 'Montserrat', sans-serif; */
     color: white;
     /* font-weight: lighter; */
@@ -209,11 +212,12 @@ li a:hover {
 
 .footerlogo img {
     width:20%;
-    margin-left: 200px;
+    margin-left: 170px;
 }
 
 .copyright p {
     text-align: center;
     margin-top: 10px;
     color: #81523F;
+    font-size: small;
 }
