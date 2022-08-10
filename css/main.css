@@ -50,9 +50,10 @@ li a:hover {
     background-color: #F2E5D7;
     font-family: 'Montserrat', sans-serif;
     position:absolute;
-    top:345px;
+    top:338px;
     left:190px;
-    width:230px;
+    width:180px;
+    height:142px; 
     border: 1px solid #7A5052 ;
     padding: 10px;
     margin: 10px;    
@@ -61,20 +62,22 @@ li a:hover {
 .box h3 {
     color: #81523F;
     font-weight:450;
+    font-size: smaller;
 }
 
 .box p {
     color:#7A5052;
-    font-size: 10px;
+    font-size: 8px;
 }
 
 .box button {
     background-color: #81523F;
+    font-size:x-small;
     font-family: 'Montserrat', sans-serif;
     color: white;
     /* font-weight: lighter; */
     border: none;
-    padding: 5px 8px;
+    padding: 3px 8px;
 }
 
 .quote p {
