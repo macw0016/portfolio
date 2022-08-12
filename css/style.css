@@ -90,7 +90,7 @@ body {
     position: relative;
     top:-45px;
     font-family: 'Dancing Script', cursive;
-    color:#81523F;
+    color:#8f523a;
     margin-left: 10px;
 }
 
@@ -104,8 +104,8 @@ body {
 
 .values h4 {
     font-family: 'Montserrat', sans-serif ;
-    margin-left: 180px;
-    font-size: 18px;
+    font-size: 15px;
+    margin-left:190px;
     color:#81523F;
 }
 
@@ -119,5 +119,86 @@ body {
 }
 
 .values1 h4 {
+    font-family: 'Montserrat', sans-serif ;
+    margin-left: 60px;
+    font-size: 15px;
+    color:#81523F;
+}
 
+.values2 {
+    background-repeat: no-repeat;
+    background-image: url(../images/creative-150_x_200.jpg);
+    height:150px;
+    margin-left: 273px;
+    width: 30%; 
+}
+
+.values2 h4 {
+    font-family: 'Montserrat', sans-serif ;
+    margin-left: 53px;
+    font-size: 15px;
+    color:#81523F;
+}
+
+.box p {
+    background-color: #F2E5D7;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #7A5052;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    font-size: small;
+}
+
+.box img {
+    width:80%;
+    margin-left: 40px;
+    margin-top: -19.5px;
+}
+
+.box1 p {
+    background-color: #F2E5D7;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #7A5052;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    font-size: small;
+}
+
+.box1 img {
+    width:80%;
+    margin-left: 40px;
+    margin-top: -19.5px;
+}
+
+.box2 p {
+    background-color: #F2E5D7;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #7A5052;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    font-size: small;
+}
+
+.box2 img {
+    width:80%;
+    margin-left: 40px;
+    margin-top: -19.5px;
+}
+
+.footerlogo img {
+    width:20%;
+    margin-left: 170px;
+}
+
+.copyright p {
+    text-align: center;
+    margin-top: 10px;
+    color: #81523F;
+    font-size: small;
 }
