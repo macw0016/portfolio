@@ -1,0 +1,123 @@
+/* for about page */
+
+body {
+    margin: 0;
+ }
+ 
+ .logo img {
+   width: 18%; 
+ }
+ 
+ nav ul {
+     margin-top: -40px ;
+ }
+ 
+ nav li {
+     display: inline-block;
+     padding: 6px;
+ }
+ 
+ nav ul {
+     float: right;
+ }
+   
+ li a {
+     color:#3F2A2B;
+     text-decoration: none;
+     font-size: 12.5px;
+     font-family: 'Montserrat', sans-serif;
+ }
+ 
+ li a:hover {
+     color: #7A5052;
+ }
+ 
+ /* end of styling nav bar */
+
+
+ .about img {
+    margin-top: 10px;
+    width: 35%;
+    /* height: 180px; */
+ }
+
+ .heading h3 {
+    font-family: 'Montserrat', sans-serif ;
+    color: #81523F;
+    position:absolute;
+    top: 60px;
+    left: 150px;
+    font-size: 15px;
+ }
+
+ .me p {
+    font-family: 'Montserrat', sans-serif ;
+    color: #81523F;
+    position:absolute;
+    top: 90px;
+    left: 150px;
+    font-size: 10px;
+ }
+
+ .aboutme p  {
+    font-family: 'Montserrat', sans-serif ;
+    color: #7A5052;
+    position: relative;
+    top: -110px;
+    left: 150px;
+    font-size: 10px;
+    width: 50%;
+ }
+
+.offer p {
+    font-family: 'Montserrat', sans-serif ;
+    color: #7A5052 ;
+    position: relative;
+    top: -110px;
+    left: 10px;
+    font-size: 10px;
+    width: 65%;
+}
+
+.decor img {
+    position:absolute;
+    top: 260px;
+    left:293px;
+    width:25%;
+}
+
+.creative h3 {
+    position: relative;
+    top:-45px;
+    font-family: 'Dancing Script', cursive;
+    color:#81523F;
+    margin-left: 10px;
+}
+
+.values {
+    margin-top:-52px;
+    background-repeat: no-repeat;
+    background-image: url(../images/simplicity-300_x_300.jpg);
+    height: 500px;
+    width:70%;
+}
+
+.values h4 {
+    font-family: 'Montserrat', sans-serif ;
+    margin-left: 180px;
+    font-size: 18px;
+    color:#81523F;
+}
+
+.values1 {
+    margin-top: -500px;
+    margin-left: 273px;
+    background-repeat: no-repeat;
+    background-image: url(../images/elegance-150_x_200.jpg);
+    height:150px;
+    width: 30%;
+}
+
+.values1 h4 {
+
+}
